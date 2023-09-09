@@ -1,0 +1,18 @@
+{
+  "name": "vite-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^3.0.7"
+  },
+  "dependencies": {
+    "@splinetool/loader": "^0.9.105",
+    "three": "^0.144.0"
+  }
+}
